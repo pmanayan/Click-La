@@ -1,0 +1,58 @@
+[
+  {
+    "name": "creatives",
+    "path": "/creatives",
+    "component": "C:\\\\Users\\\\Carlo\\\\Desktop\\\\NUXT\\\\click-la\\\\pages\\\\creatives\\\\index.vue",
+    "chunkName": "pages/creatives/index",
+    "_name": "_ef8b2226"
+  },
+  {
+    "name": "dashboard",
+    "path": "/dashboard",
+    "component": "C:\\\\Users\\\\Carlo\\\\Desktop\\\\NUXT\\\\click-la\\\\pages\\\\dashboard\\\\index.vue",
+    "chunkName": "pages/dashboard/index",
+    "_name": "_1d1b34fd"
+  },
+  {
+    "name": "events",
+    "path": "/events",
+    "component": "C:\\\\Users\\\\Carlo\\\\Desktop\\\\NUXT\\\\click-la\\\\pages\\\\events\\\\index.vue",
+    "chunkName": "pages/events/index",
+    "_name": "_3c70586a"
+  },
+  {
+    "name": "my-account",
+    "path": "/my-account",
+    "component": "C:\\\\Users\\\\Carlo\\\\Desktop\\\\NUXT\\\\click-la\\\\pages\\\\my-account\\\\index.vue",
+    "chunkName": "pages/my-account/index",
+    "_name": "_4c5d7fd2"
+  },
+  {
+    "name": "news",
+    "path": "/news",
+    "component": "C:\\\\Users\\\\Carlo\\\\Desktop\\\\NUXT\\\\click-la\\\\pages\\\\news\\\\index.vue",
+    "chunkName": "pages/news/index",
+    "_name": "_323a1ea0"
+  },
+  {
+    "name": "trainings",
+    "path": "/trainings",
+    "component": "C:\\\\Users\\\\Carlo\\\\Desktop\\\\NUXT\\\\click-la\\\\pages\\\\trainings\\\\index.vue",
+    "chunkName": "pages/trainings/index",
+    "_name": "_3ca4c0d0"
+  },
+  {
+    "name": "videos",
+    "path": "/videos",
+    "component": "C:\\\\Users\\\\Carlo\\\\Desktop\\\\NUXT\\\\click-la\\\\pages\\\\videos\\\\index.vue",
+    "chunkName": "pages/videos/index",
+    "_name": "_301930cb"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Carlo\\\\Desktop\\\\NUXT\\\\click-la\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_141917a3"
+  }
+]
