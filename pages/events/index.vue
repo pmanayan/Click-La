@@ -5,7 +5,7 @@
             <TopNavigation/>
             <div class="flex">
                 <LeftNavigation/>
-                <h1>Events</h1>
+                <Events/>
             </div>
         </div>
     </div>
