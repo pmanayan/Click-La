@@ -20,7 +20,7 @@
                 </div>
                 <div class="w-2/4 p-5">
                     <div>
-                        <h3>Forums</h3>
+                        <h3>Calendar</h3>
                     </div>
                 </div>
             </div>

@@ -2,7 +2,7 @@
     <div class="grid card">
         <div class="card-image">
             <nuxt-link to="creatives" data-fancybox="mosaic-gallery" data-caption="Caption Images 1">
-                <img src='img/foods-sample.jpg' alt="image">	
+                <img src='/img/foods-sample.jpg' alt="image">	
                 <div class="grid_body">
                     <!--div class="relative">						
                         <h3 class="grid_title">Your Title</h3>

@@ -21,7 +21,7 @@
                         <NuxtLink to="/dashboard">Home ></NuxtLink>
                     </div>
                     <div class="mt-5">
-                        <h3 class="text-2xl font-medium">Sales and Marketing Forum {{threadsCounter}}</h3>
+                        <h3 class="text-2xl font-medium">Sales and Marketing Forum </h3>
                     </div>
                     <NewsCategory class="mt-3" v-for="news in newsLists" :key="news.id" :category="news.category" :categoryData="news.categoryData"/>
                 </div>
@@ -38,7 +38,7 @@ export default {
                     category: 'Sales and Marketing',
                     categoryData: [
                         {
-                            topic: 'Sales Forecast',
+                            topic: 'Sales Forecast #1',
                             numberThreads: '500',
                             numberMessages: '612',
                             shortSummary: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dictum interdum leo vel facilisis. Aenean eget lobortis diam, quis faucibus lectus.',
@@ -47,7 +47,7 @@ export default {
                             authorPicture: 'image-1.jpg',
                         },
                         {
-                            topic: 'Sales Forecast',
+                            topic: 'Sales Forecast #2',
                             numberThreads: '500',
                             numberMessages: '612',
                             shortSummary: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dictum interdum leo vel facilisis. Aenean eget lobortis diam, quis faucibus lectus.',
@@ -56,7 +56,7 @@ export default {
                             authorPicture: 'image-1.jpg',
                         },
                         {
-                            topic: 'Sales Forecast',
+                            topic: 'Sales Forecast #3',
                             numberThreads: '500',
                             numberMessages: '612',
                             shortSummary: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dictum interdum leo vel facilisis. Aenean eget lobortis diam, quis faucibus lectus.',
@@ -65,7 +65,7 @@ export default {
                             authorPicture: 'image-1.jpg',
                         },
                         {
-                            topic: 'Sales Forecast',
+                            topic: 'Sales Forecast #4',
                             numberThreads: '500',
                             numberMessages: '612',
                             shortSummary: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dictum interdum leo vel facilisis. Aenean eget lobortis diam, quis faucibus lectus.',
@@ -79,7 +79,7 @@ export default {
                     category: 'Sales Forecast',
                     categoryData: [
                         {
-                            topic: 'Sales Marketing',
+                            topic: 'Sales Marketing #1',
                             numberThreads: '500',
                             numberMessages: '612',
                             shortSummary: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dictum interdum leo vel facilisis. Aenean eget lobortis diam, quis faucibus lectus.',
@@ -88,7 +88,7 @@ export default {
                             authorPicture: 'video-thumbnail-1.png',
                         },
                         {
-                            topic: 'Sales Marketing',
+                            topic: 'Sales Marketing #2',
                             numberThreads: '500',
                             numberMessages: '612',
                             shortSummary: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dictum interdum leo vel facilisis. Aenean eget lobortis diam, quis faucibus lectus.',
@@ -97,7 +97,7 @@ export default {
                             authorPicture: 'video-thumbnail-1.png',
                         },
                         {
-                            topic: 'Sales Marketing',
+                            topic: 'Sales Marketing #3',
                             numberThreads: '500',
                             numberMessages: '612',
                             shortSummary: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dictum interdum leo vel facilisis. Aenean eget lobortis diam, quis faucibus lectus.',
@@ -106,7 +106,7 @@ export default {
                             authorPicture: 'video-thumbnail-1.png',
                         },
                         {
-                            topic: 'Sales Marketing',
+                            topic: 'Sales Marketing #4',
                             numberThreads: '500',
                             numberMessages: '612',
                             shortSummary: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dictum interdum leo vel facilisis. Aenean eget lobortis diam, quis faucibus lectus.',
@@ -115,7 +115,7 @@ export default {
                             authorPicture: 'video-thumbnail-1.png',
                         },
                         {
-                            topic: 'Sales Marketing',
+                            topic: 'Sales Marketing #5',
                             numberThreads: '500',
                             numberMessages: '612',
                             shortSummary: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dictum interdum leo vel facilisis. Aenean eget lobortis diam, quis faucibus lectus.',

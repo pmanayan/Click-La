@@ -16,7 +16,7 @@
                   <input type="text" name="fullname" id="fullname" class="bg-gray-100 border-2 border-blue-800 rounded w-9/12"/>
               </div>
               <div class="flex mt-4">
-                  <label for="fullname" class="w-2/12 text-right pr-3 text-blue-800 text-xl">Mobile</label>
+                  <label for="fullname" class="w-2/12 text-right pr-3 text-blue-800 text-xl">Phone</label>
                   <input type="text" name="fullname" id="fullname" class="bg-gray-100 border-2 border-blue-800 rounded w-9/12"/>
               </div>
               <div class="flex mt-4">

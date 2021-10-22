@@ -3,7 +3,7 @@
         <div class="bg-gray-100 rounded-md overflow-hidden">
             <div class="flex">
                 <div class="w-9/12">
-                    <iframe width="100%" height="600" src="https://www.youtube.com/embed/87If-Q2pJWQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe width="100%" height="600" src="https://www.youtube.com/embed/ZUdqlbQfWyg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
                 <div class="w-3/12 bg-red-800 px-5 py-3">
                     <div>
@@ -13,36 +13,36 @@
                     </div>
                     <div class="mt-5 h-96 overflow-y-scroll">
                         <div class="flex relative h-36 w-full items-center justify-center">
-                            <img src="img/video-thumbnail-1.png" class="w-full cursor-pointer h-36 object-cover absolute z-index-1">
-                            <img src="img/play-button.png" class="relative z-index-2 cursor-pointer">
+                            <img src="/img/video-thumbnail-1.png" class="w-full cursor-pointer h-36 object-cover absolute z-index-1">
+                            <img src="/img/play-button.png" class="relative z-index-2 cursor-pointer">
                             <div class="absolute bottom-0 left0 w-full bg-black bg-opacity-80 px-2 py-1 cursor-pointer">
                                 <p class="text-white">Elevated Plating</p>
                             </div>
                         </div>
                         <div class="flex relative h-36 w-full items-center justify-center mt-4">
-                            <img src="img/video-thumbnail-1.png" class="w-full cursor-pointer h-36 object-cover absolute z-index-1">
-                            <img src="img/play-button.png" class="relative z-index-2 cursor-pointer">
+                            <img src="/img/video-thumbnail-1.png" class="w-full cursor-pointer h-36 object-cover absolute z-index-1">
+                            <img src="/img/play-button.png" class="relative z-index-2 cursor-pointer">
                             <div class="absolute bottom-0 left0 w-full bg-black bg-opacity-80 px-2 py-1 cursor-pointer">
                                 <p class="text-white">Elevated Plating</p>
                             </div>
                         </div>
                         <div class="flex relative h-36 w-full items-center justify-center mt-4">
-                            <img src="img/video-thumbnail-1.png" class="w-full cursor-pointer h-36 object-cover absolute z-index-1">
-                            <img src="img/play-button.png" class="relative z-index-2 cursor-pointer">
+                            <img src="/img/video-thumbnail-1.png" class="w-full cursor-pointer h-36 object-cover absolute z-index-1">
+                            <img src="/img/play-button.png" class="relative z-index-2 cursor-pointer">
                             <div class="absolute bottom-0 left0 w-full bg-black bg-opacity-80 px-2 py-1 cursor-pointer">
                                 <p class="text-white">Elevated Plating</p>
                             </div>
                         </div>
                         <div class="flex relative h-36 w-full items-center justify-center mt-4">
-                            <img src="img/video-thumbnail-1.png" class="w-full cursor-pointer h-36 object-cover absolute z-index-1">
-                            <img src="img/play-button.png" class="relative z-index-2 cursor-pointer">
+                            <img src="/img/video-thumbnail-1.png" class="w-full cursor-pointer h-36 object-cover absolute z-index-1">
+                            <img src="/img/play-button.png" class="relative z-index-2 cursor-pointer">
                             <div class="absolute bottom-0 left0 w-full bg-black bg-opacity-80 px-2 py-1 cursor-pointer">
                                 <p class="text-white">Elevated Plating</p>
                             </div>
                         </div>
                         <div class="flex relative h-36 w-full items-center justify-center mt-4">
-                            <img src="img/video-thumbnail-1.png" class="w-full cursor-pointer h-36 object-cover absolute z-index-1">
-                            <img src="img/play-button.png" class="relative z-index-2 cursor-pointer">
+                            <img src="/img/video-thumbnail-1.png" class="w-full cursor-pointer h-36 object-cover absolute z-index-1">
+                            <img src="/img/play-button.png" class="relative z-index-2 cursor-pointer">
                             <div class="absolute bottom-0 left0 w-full bg-black bg-opacity-80 px-2 py-1 cursor-pointer">
                                 <p class="text-white">Elevated Plating</p>
                             </div>

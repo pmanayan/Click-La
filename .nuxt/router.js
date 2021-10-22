@@ -7,8 +7,11 @@ import scrollBehavior from './router.scrollBehavior.js'
 const _ef8b2226 = () => interopDefault(import('..\\pages\\creatives\\index.vue' /* webpackChunkName: "pages/creatives/index" */))
 const _1d1b34fd = () => interopDefault(import('..\\pages\\dashboard\\index.vue' /* webpackChunkName: "pages/dashboard/index" */))
 const _3c70586a = () => interopDefault(import('..\\pages\\events\\index.vue' /* webpackChunkName: "pages/events/index" */))
+const _665858a8 = () => interopDefault(import('..\\pages\\forgot-password\\index.vue' /* webpackChunkName: "pages/forgot-password/index" */))
+const _2830a410 = () => interopDefault(import('..\\pages\\login-layout-2\\index.vue' /* webpackChunkName: "pages/login-layout-2/index" */))
 const _4c5d7fd2 = () => interopDefault(import('..\\pages\\my-account\\index.vue' /* webpackChunkName: "pages/my-account/index" */))
 const _323a1ea0 = () => interopDefault(import('..\\pages\\news\\index.vue' /* webpackChunkName: "pages/news/index" */))
+const _1e62e660 = () => interopDefault(import('..\\pages\\register\\index.vue' /* webpackChunkName: "pages/register/index" */))
 const _3ca4c0d0 = () => interopDefault(import('..\\pages\\trainings\\index.vue' /* webpackChunkName: "pages/trainings/index" */))
 const _301930cb = () => interopDefault(import('..\\pages\\videos\\index.vue' /* webpackChunkName: "pages/videos/index" */))
 const _141917a3 = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
@@ -37,6 +40,14 @@ export const routerOptions = {
     component: _3c70586a,
     name: "events"
   }, {
+    path: "/forgot-password",
+    component: _665858a8,
+    name: "forgot-password"
+  }, {
+    path: "/login-layout-2",
+    component: _2830a410,
+    name: "login-layout-2"
+  }, {
     path: "/my-account",
     component: _4c5d7fd2,
     name: "my-account"
@@ -44,6 +55,10 @@ export const routerOptions = {
     path: "/news",
     component: _323a1ea0,
     name: "news"
+  }, {
+    path: "/register",
+    component: _1e62e660,
+    name: "register"
   }, {
     path: "/trainings",
     component: _3ca4c0d0,

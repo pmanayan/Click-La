@@ -21,6 +21,20 @@
     "_name": "_3c70586a"
   },
   {
+    "name": "forgot-password",
+    "path": "/forgot-password",
+    "component": "C:\\\\Users\\\\Carlo\\\\Desktop\\\\NUXT\\\\click-la\\\\pages\\\\forgot-password\\\\index.vue",
+    "chunkName": "pages/forgot-password/index",
+    "_name": "_665858a8"
+  },
+  {
+    "name": "login-layout-2",
+    "path": "/login-layout-2",
+    "component": "C:\\\\Users\\\\Carlo\\\\Desktop\\\\NUXT\\\\click-la\\\\pages\\\\login-layout-2\\\\index.vue",
+    "chunkName": "pages/login-layout-2/index",
+    "_name": "_2830a410"
+  },
+  {
     "name": "my-account",
     "path": "/my-account",
     "component": "C:\\\\Users\\\\Carlo\\\\Desktop\\\\NUXT\\\\click-la\\\\pages\\\\my-account\\\\index.vue",
@@ -33,6 +47,13 @@
     "component": "C:\\\\Users\\\\Carlo\\\\Desktop\\\\NUXT\\\\click-la\\\\pages\\\\news\\\\index.vue",
     "chunkName": "pages/news/index",
     "_name": "_323a1ea0"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "C:\\\\Users\\\\Carlo\\\\Desktop\\\\NUXT\\\\click-la\\\\pages\\\\register\\\\index.vue",
+    "chunkName": "pages/register/index",
+    "_name": "_1e62e660"
   },
   {
     "name": "trainings",

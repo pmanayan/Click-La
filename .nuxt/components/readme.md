@@ -7,6 +7,7 @@ You can directly use them in pages and other components without the need to impo
 **Tip:** If a component is conditionally rendered with `v-if` and is big, it is better to use `Lazy` or `lazy-` prefix to lazy load.
 
 - `<Background>` | `<background>` (components/Background.vue)
+- `<CreateAccount>` | `<create-account>` (components/CreateAccount.vue)
 - `<Creatives>` | `<creatives>` (components/Creatives.vue)
 - `<Dashboard>` | `<dashboard>` (components/Dashboard.vue)
 - `<DashboardTraining>` | `<dashboard-training>` (components/DashboardTraining.vue)
@@ -16,7 +17,9 @@ You can directly use them in pages and other components without the need to impo
 - `<Forum>` | `<forum>` (components/Forum.vue)
 - `<ForumStatistics>` | `<forum-statistics>` (components/ForumStatistics.vue)
 - `<LeftNavigation>` | `<left-navigation>` (components/LeftNavigation.vue)
+- `<Login>` | `<login>` (components/Login.vue)
 - `<Logo>` | `<logo>` (components/Logo.vue)
+- `<Logout>` | `<logout>` (components/Logout.vue)
 - `<MosaicGrid>` | `<mosaic-grid>` (components/MosaicGrid.vue)
 - `<MosaicTemplate>` | `<mosaic-template>` (components/MosaicTemplate.vue)
 - `<MyAccount>` | `<my-account>` (components/MyAccount.vue)

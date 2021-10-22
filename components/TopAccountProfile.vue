@@ -22,7 +22,7 @@
                     <NuxtLink to="/my-account" class="py-1 px-3 rounded text-center mb-2 block text-white">
                         My Account
                     </NuxtLink>
-                    <NuxtLink to="/logout" class="py-1 px-3 rounded text-center mb-2 block text-white">
+                    <NuxtLink to="/" class="py-1 px-3 rounded text-center mb-2 block text-white">
                         Logout
                     </NuxtLink>
                 </div>

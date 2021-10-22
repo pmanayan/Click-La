@@ -2,6 +2,9 @@
   "Background": {
     "description": "Auto imported from components/Background.vue"
   },
+  "CreateAccount": {
+    "description": "Auto imported from components/CreateAccount.vue"
+  },
   "Creatives": {
     "description": "Auto imported from components/Creatives.vue"
   },
@@ -29,8 +32,14 @@
   "LeftNavigation": {
     "description": "Auto imported from components/LeftNavigation.vue"
   },
+  "Login": {
+    "description": "Auto imported from components/Login.vue"
+  },
   "Logo": {
     "description": "Auto imported from components/Logo.vue"
+  },
+  "Logout": {
+    "description": "Auto imported from components/Logout.vue"
   },
   "MosaicGrid": {
     "description": "Auto imported from components/MosaicGrid.vue"
