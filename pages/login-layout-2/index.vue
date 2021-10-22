@@ -62,7 +62,6 @@
 </template>
 
 <script>
-var timeOut;
 export default {
     head() {
         return {
@@ -101,19 +100,6 @@ export default {
         }
     },
 }
-function autoSliderFunctionLoad(){
-    timeOut = setTimeout(function(){
-        var toClick = document.querySelectorAll("#slider-login-1 .active-nav")[0].nextElementSibling;
-        if(toClick == null){
-            document.querySelectorAll("#slider-login-1 .slider-nav")[0].click();
-            autoSliderFunctionLoad();
-        }else{
-            toClick.click();
-            autoSliderFunctionLoad();
-        }
-    },5000);
-}
-autoSliderFunctionLoad();
 </script>
 
 <style scoped>

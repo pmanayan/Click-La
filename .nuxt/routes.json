@@ -3,77 +3,66 @@
     "name": "creatives",
     "path": "/creatives",
     "component": "C:\\\\Users\\\\Carlo\\\\Desktop\\\\NUXT\\\\click-la\\\\pages\\\\creatives\\\\index.vue",
-    "chunkName": "pages/creatives/index",
-    "_name": "_ef8b2226"
+    "chunkName": "pages/creatives/index"
   },
   {
     "name": "dashboard",
     "path": "/dashboard",
     "component": "C:\\\\Users\\\\Carlo\\\\Desktop\\\\NUXT\\\\click-la\\\\pages\\\\dashboard\\\\index.vue",
-    "chunkName": "pages/dashboard/index",
-    "_name": "_1d1b34fd"
+    "chunkName": "pages/dashboard/index"
   },
   {
     "name": "events",
     "path": "/events",
     "component": "C:\\\\Users\\\\Carlo\\\\Desktop\\\\NUXT\\\\click-la\\\\pages\\\\events\\\\index.vue",
-    "chunkName": "pages/events/index",
-    "_name": "_3c70586a"
+    "chunkName": "pages/events/index"
   },
   {
     "name": "forgot-password",
     "path": "/forgot-password",
     "component": "C:\\\\Users\\\\Carlo\\\\Desktop\\\\NUXT\\\\click-la\\\\pages\\\\forgot-password\\\\index.vue",
-    "chunkName": "pages/forgot-password/index",
-    "_name": "_665858a8"
+    "chunkName": "pages/forgot-password/index"
   },
   {
     "name": "login-layout-2",
     "path": "/login-layout-2",
     "component": "C:\\\\Users\\\\Carlo\\\\Desktop\\\\NUXT\\\\click-la\\\\pages\\\\login-layout-2\\\\index.vue",
-    "chunkName": "pages/login-layout-2/index",
-    "_name": "_2830a410"
+    "chunkName": "pages/login-layout-2/index"
   },
   {
     "name": "my-account",
     "path": "/my-account",
     "component": "C:\\\\Users\\\\Carlo\\\\Desktop\\\\NUXT\\\\click-la\\\\pages\\\\my-account\\\\index.vue",
-    "chunkName": "pages/my-account/index",
-    "_name": "_4c5d7fd2"
+    "chunkName": "pages/my-account/index"
   },
   {
     "name": "news",
     "path": "/news",
     "component": "C:\\\\Users\\\\Carlo\\\\Desktop\\\\NUXT\\\\click-la\\\\pages\\\\news\\\\index.vue",
-    "chunkName": "pages/news/index",
-    "_name": "_323a1ea0"
+    "chunkName": "pages/news/index"
   },
   {
     "name": "register",
     "path": "/register",
     "component": "C:\\\\Users\\\\Carlo\\\\Desktop\\\\NUXT\\\\click-la\\\\pages\\\\register\\\\index.vue",
-    "chunkName": "pages/register/index",
-    "_name": "_1e62e660"
+    "chunkName": "pages/register/index"
   },
   {
     "name": "trainings",
     "path": "/trainings",
     "component": "C:\\\\Users\\\\Carlo\\\\Desktop\\\\NUXT\\\\click-la\\\\pages\\\\trainings\\\\index.vue",
-    "chunkName": "pages/trainings/index",
-    "_name": "_3ca4c0d0"
+    "chunkName": "pages/trainings/index"
   },
   {
     "name": "videos",
     "path": "/videos",
     "component": "C:\\\\Users\\\\Carlo\\\\Desktop\\\\NUXT\\\\click-la\\\\pages\\\\videos\\\\index.vue",
-    "chunkName": "pages/videos/index",
-    "_name": "_301930cb"
+    "chunkName": "pages/videos/index"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\Carlo\\\\Desktop\\\\NUXT\\\\click-la\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_141917a3"
+    "chunkName": "pages/index"
   }
 ]
